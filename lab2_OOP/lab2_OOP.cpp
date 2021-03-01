@@ -20,7 +20,7 @@ public:
 		for (int i = 0; i < n; i++) {
 			counter[i] = min_value[i] = 0;
 			max_value[i] = 9;
-		}
+		} 
 		timer_delay = 100;
 
 	}
